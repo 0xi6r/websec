@@ -1,6 +1,6 @@
-# AI Pentest
+# AI RedTeaming
 
-## Shortcut
+## Prerequisite
 
 - Understand the AI system, its components (LLM, APIs, data sources, plugins), and functionalities. Identify critical assets and potential business impacts.
 - Collect details about the model, underlying technologies, APIs, and data flow.
@@ -36,7 +36,7 @@ AI/LLM vulnerabilities stem from several core mechanisms:
 - **Memory Poisoning** – injecting persistent malicious instructions into agent memory systems (AutoGPT, CrewAI, LangChain Memory).
 - **Tokenization Exploits** – zero-width characters, Unicode normalization mismatches between input sanitizers and model tokenizers.
 
-## Hunt
+## Exploitation lifecycle
 
 ### Preparation
 

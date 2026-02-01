@@ -1,7 +1,7 @@
 # Web Security Exploitation & Vulnerability Research
 ![websec banner](websec.png)
 
-A curated collection of web security exploitation techniques, vulnerability writeups, and penetration testing methodologies.
+A collection of web security exploitation techniques and vulnerability writeups.
 
 ## Contents
 
@@ -50,9 +50,5 @@ Contributions are welcome! Please:
 
 ---
 
-**Stay curious, stay ethical, and always hack responsibly.** 
-
-*Last updated: $(date +%Y-%m-%d)*
+*Last updated: 2026-1-1*
 ---
-
-> "Knowledge is power. With great power comes great responsibility."
